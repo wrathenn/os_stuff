@@ -1,0 +1,4 @@
+.clang-tidy
+out/*
+.vscode
+.idea
